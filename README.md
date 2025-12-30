@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-ISHANT14gg-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ISHANT14gg)
 [![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/jexo10op/)
 
-🎓 **B.Tech CSE** @ Graphic Era University | **CGPA: 8.20/10** | **Class of 2025**
+🎓 **B.Tech CSE** @ Graphic Era University | **CGPA: 8.20/10** | **Class of 2026**
 
 💼 **Actively seeking Software Developer roles** | Open to Full-Time & Internship opportunities
 
