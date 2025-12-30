@@ -5,7 +5,7 @@
 ### Full-Stack Developer | MERN Stack Enthusiast | Problem Solver
 
 [![Email](https://img.shields.io/badge/Email-ishant6589%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishant6589@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishant%20Sharma-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishant-sharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishant%20Sharma-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishant-sharma888/)
 [![GitHub](https://img.shields.io/badge/GitHub-ISHANT14gg-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ISHANT14gg)
 [![LeetCode](https://img.shields.io/badge/LeetCode-300%2B%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ishant)
 
@@ -91,7 +91,7 @@ const ishant = {
 <tr>
 <td width="50%">
 
-### 💰 [Expense Tracker](https://github.com/ISHANT14gg/expense-tracker)
+### 💰 [EXPENSE-TRACKER](https://github.com/ISHANT14gg/EXPENSE-TRACKER)
 **MERN Stack | JWT Auth | Charts**
 
 A full-stack expense management application with secure authentication and visual analytics.
@@ -107,7 +107,7 @@ A full-stack expense management application with secure authentication and visua
 </td>
 <td width="50%">
 
-### 🏠 [WanderLust](https://github.com/ISHANT14gg/wanderlust)
+### 🏠 [TravelNest](https://github.com/ISHANT14gg/TravelNest)
 **Node.js | Express | MongoDB | EJS**
 
 Travel accommodation platform with property listings and reviews.
@@ -125,7 +125,7 @@ Travel accommodation platform with property listings and reviews.
 <tr>
 <td width="50%">
 
-### 📧 [Spam Filtering System](https://github.com/ISHANT14gg/spam-filter)
+### 📧 [spam-filtering](https://github.com/ISHANT14gg/spam-filtering)
 **Python | ML | Scikit-learn**
 
 ML-based SMS spam classification system with high accuracy.
@@ -141,12 +141,39 @@ ML-based SMS spam classification system with high accuracy.
 </td>
 <td width="50%">
 
-### 🚀 More Projects Coming Soon!
+### 🛒 [Shopping-Mart-Management-System](https://github.com/ISHANT14gg/Shopping-Mart-Management-System)
+**Python | Tkinter | SQLite**
 
-Currently working on:
-- 🛒 E-commerce platform
-- 💬 Real-time chat application
-- 🎮 Multiplayer game server
+A desktop application for managing shopping mart operations.
+
+**Tech:** Python, Tkinter, SQLite
+
+**Features:**
+- 📦 Inventory management
+- 🧾 Billing system
+- 👥 Customer management
+- 📊 Sales reports
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🍽️ [Interactive-Recipe-Finder](https://github.com/ISHANT14gg/Interactive-Recipe-Finder)
+**JavaScript | API Integration**
+
+An interactive web application that helps users find recipes based on ingredients.
+
+**Tech:** HTML, CSS, JavaScript, Recipe API
+
+**Features:**
+- 🔍 Search by ingredients
+- 📋 Recipe details & instructions
+- 🥗 Nutritional information
+- 📱 Responsive design
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
@@ -154,18 +181,7 @@ Currently working on:
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ISHANT14gg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISHANT14gg&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ISHANT14gg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
 
 ## 🏆 Achievements & Certifications
 
@@ -210,9 +226,8 @@ Currently working on:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-ishant6589%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishant6589@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishant-sharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishant-sharma888/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ISHANT14gg)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ishant-portfolio.vercel.app)
 
 ### 💌 Open to opportunities • Let's build something amazing together!
 
