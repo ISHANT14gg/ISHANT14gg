@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-ishant6589%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishant6589@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishant%20Sharma-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishant-sharma888/)
 [![GitHub](https://img.shields.io/badge/GitHub-ISHANT14gg-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ISHANT14gg)
-[![LeetCode](https://img.shields.io/badge/LeetCode-300%2B%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ishant)
+[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/jexo10op/)
 
 🎓 **B.Tech CSE** @ Graphic Era University | **CGPA: 8.20/10** | **Class of 2025**
 
@@ -25,7 +25,7 @@ const ishant = {
     education: "B.Tech in Computer Science Engineering",
     currentFocus: ["Full-Stack Development", "DSA", "System Design"],
     lookingFor: "Software Developer roles in Product-based companies",
-    funFact: "Solved 300+ DSA problems and still counting! 💪"
+    funFact: "Solved 200+ DSA problems and still counting! 💪"
 };
 ```
 
@@ -188,7 +188,7 @@ An interactive web application that helps users find recipes based on ingredient
 ```
 🎖️ Salesforce Superbadges (3x)  → Apex Specialist | Object Relationships | LWC Basics
 🏅 Agentblazer Champion         → Salesforce Platform Expertise
-💪 300+ DSA Problems            → LeetCode & GeeksforGeeks
+💪 200+ DSA Problems            → LeetCode & GeeksforGeeks
 👥 Event Organizer              → Led coding hackathons & workshops (100+ participants)
 🚀 Space Olympiad Qualifier     → 1st Stage (2014)
 ```
@@ -201,9 +201,9 @@ An interactive web application that helps users find recipes based on ingredient
 
 ### 💡 LeetCode & GeeksforGeeks
 
-**300+** problems solved across platforms
+**200+** problems solved across platforms
 
-![LeetCode](https://img.shields.io/badge/LeetCode-300%2B-orange?style=for-the-badge&logo=leetcode)
+![LeetCode](https://img.shields.io/badge/LeetCode-200%2B-orange?style=for-the-badge&logo=leetcode)
 ![GeeksforGeeks](https://img.shields.io/badge/GFG-Active-green?style=for-the-badge&logo=geeksforgeeks)
 
 **Focus Areas:** Arrays, Strings, Trees, Dynamic Programming, Graphs
