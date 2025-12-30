@@ -212,6 +212,7 @@ Currently working on:
 [![Email](https://img.shields.io/badge/Email-ishant6589%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishant6589@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishant-sharma)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ISHANT14gg)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ishant-portfolio.vercel.app)
 
 ### 💌 Open to opportunities • Let's build something amazing together!
 
