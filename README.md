@@ -1,4 +1,7 @@
 <div align="center">
+<p align="center">
+  <img src="assets/giphy.gif" alt="Hero Animation" width="2700" height="450" />
+</p>
 
 # 👋 Hi, I'm Ishant Sharma
 
